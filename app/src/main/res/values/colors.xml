@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0a4199</color>
+    <color name="colorPrimaryDark">#0a4199</color>
+    <color name="colorAccent">#0a4199</color>
+    <color name="light_grey">#DCDCDC</color>
+    <color name="black_overlay">#ff9933</color>
+    <color name="view_background">#e8ecfa</color>
+    <color name="btn_bg">#277bec</color>
+    <color name="white">#ffffff</color>
+    <color name="txt_font">#4e5572</color>
+    <color name="action_bar">#1f2649</color>
+    <color name="blue_grey_500">#607D8B</color>
+    <color name="blue_grey_600">#546E7A</color>
+    <color name="blue_grey_700">#455A64</color>
+    <color name="blue_grey_800">#37474F</color>
+    <color name="blue_grey_900">#263238</color>
+    <color name="viewBg">#f1f5f8</color>
+    <color name="album_title">#4c4c4c</color>
+</resources>

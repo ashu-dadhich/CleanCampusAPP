@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "12101810751",
+    "project_id": "firebase-swachbharat"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12101810751:android:21510b31b6d5d2c7",
+        "android_client_info": {
+          "package_name": "in.ac.nith.swach_bharat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12101810751-ihb3hjasdehulj213utqtlsvcphodmkb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.ac.nith.swach_bharat",
+            "certificate_hash": "16317EEE6BEE1B5E2AB4A31B195EEF24B94C20F9"
+          }
+        },
+        {
+          "client_id": "12101810751-p3ojc23tvgh49rfm4s9ju2hmn79oq65k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACVR9xNAEfiSnuAtbx5ZWgkQ8diUEQ3Eg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
