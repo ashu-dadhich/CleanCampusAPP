@@ -1,2 +1,8 @@
 # CleanCampusAPP
-I built this app under student developer programme under MHRD. In which one had to submit technological solutions to the problems faced by society. I proposed a solution regarding ways to ensure cleanliness in out college in regard to "swach bharat abhinyan" 
+This app is developed under the Digital India Programme.A competition was organised among the students of NIT Hamirpur for development for development on various themes that are of utility to the campus users/stakeholders or in general. 
+
+Fortunately my idea got selected.
+
+
+
+
